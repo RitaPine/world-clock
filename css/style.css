@@ -3,11 +3,16 @@ body {
   font-family: sans-serif;
 }
 
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
 .container {
-  max-width: 600px;
-  margin: 60px auto;
+  max-width: 450px;
+  margin: 10px auto;
   background: white;
-  padding: 30px;
+  padding: 20px;
   box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
   border-radius: 10px;
 }
@@ -32,7 +37,7 @@ h2 {
   opacity: 0.7;
 }
 .time {
-  font-size: 48px;
+  font-size: 35px;
   font-weight: bold;
 }
 .time small {
